@@ -1,0 +1,21 @@
+Restaurant_latitude,Restaurant_longitude,Delivery_location_latitude,Delivery_location_longitude,Weather_conditions,Road_traffic_density,Vehicle_condition,Type_of_order,Type_of_vehicle,multiple_deliveries,City,Time_taken (min),Distance
+0.0,0.0,0.06,0.06,Sunny,Jam,2,Buffet,scooter,1.0,Metropolitian,16,9.41
+21.149834,72.778666,21.159834,72.788666,Windy,Low,1,Buffet,motorcycle,1.0,Metropolitian,20,1.52
+21.160522,72.771477,21.210522,72.821477,Stormy,Low,0,Meal,motorcycle,1.0,Urban,22,7.59
+11.022298,76.998349,11.132298,77.108349,Fog,Jam,0,Meal,motorcycle,2.0,Metropolitian,44,17.1
+0.0,0.0,0.03,0.03,Windy,Medium,1,Meal,motorcycle,1.0,Urban,30,4.71
+26.90294,75.793007,27.01294,75.903007,Cloudy,Low,2,Drinks,electric_scooter,1.0,Urban,39,16.37
+18.546947,73.900626,18.596947,73.950626,Windy,Medium,2,Meal,scooter,0.0,Metropolitian,25,7.65
+22.75004,75.902847,22.79004,75.942847,Cloudy,Medium,1,Drinks,motorcycle,1.0,Metropolitian,12,6.04
+12.972161,77.596014,13.062161,77.686014,Windy,Medium,0,Meal,motorcycle,,,38,13.94
+11.022477,76.995667,11.042477,77.015667,Fog,High,1,Drinks,motorcycle,1.0,Metropolitian,35,3.11
+0.0,0.0,0.06,0.06,Fog,Jam,1,Snack,motorcycle,1.0,Metropolitian,28,9.41
+26.911927,75.797282,26.921927,75.807282,Cloudy,Low,1,Buffet,motorcycle,1.0,Urban,19,1.49
+22.310329,73.169083,22.360329,73.219083,Fog,Medium,1,Drinks,scooter,0.0,Urban,15,7.56
+26.911378,75.789034,26.931378,75.809034,Stormy,Low,0,Buffet,motorcycle,0.0,Metropolitian,33,2.98
+12.284747,76.625861,12.344747,76.685861,Sunny,Medium,0,Snack,motorcycle,0.0,Urban,15,9.31
+11.021278,76.995017,11.031278,77.005017,Sandstorms,Low,0,Snack,motorcycle,0.0,Metropolitian,19,1.55
+12.933284,77.615428,13.003284,77.685428,Fog,Medium,0,Snack,motorcycle,1.0,Metropolitian,43,10.85
+12.972532,77.608179,13.032532,77.668179,Windy,Jam,2,Meal,scooter,0.0,Urban,14,9.3
+11.003681,76.975525,11.113681,77.085525,Sunny,Jam,2,Buffet,electric_scooter,1.0,Metropolitian,17,17.1
+23.355164,85.324097,23.465164,85.434097,Windy,Jam,2,Snack,motorcycle,1.0,Metropolitian,35,16.58

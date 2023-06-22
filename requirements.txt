@@ -1,0 +1,9 @@
+Flask
+Pandas
+scikit-learn
+numpy
+seaborn
+missingno
+matplotlib
+geopy
+-e .

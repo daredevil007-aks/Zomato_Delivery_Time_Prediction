@@ -1,0 +1,8 @@
+Flask
+Pandas
+geopy
+matplotlib
+missingno
+numpy
+scikit-learn
+seaborn
