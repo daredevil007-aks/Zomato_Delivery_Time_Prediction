@@ -34,6 +34,7 @@ class DataTranformation:
 
 
             logging.info('pipeline initated')
+            
             num_pipeline=Pipeline(
             steps=[
             ('imputer',SimpleImputer(strategy='median')),
