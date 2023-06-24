@@ -27,7 +27,6 @@ class PredictPipeline:
             logging.info('exception occured in prediction')
             raise CustomException(e,sys)
 
-
 class CustomData:
     def __init__(self,
                  Distance:float,
@@ -54,13 +53,13 @@ class CustomData:
                 'multiple_deliveries':[self.multiple_deliveries],
                 'Vehicle_condition':[self.Vehicle_condition],
                 'Weather_conditions':[self.Weather_conditions],
-                'road_traffic':[self.road_traffic],
+                'Road_traffic_density':[self.road_traffic],
                 'Type_of_order':[self.Type_of_order],
-                'type_of_vehicle':[self.type_of_vehicle],
+                'Type_of_vehicle':[self.type_of_vehicle],
                 'City':[self.City]
             }
             
-            df = pd.Dataframe(custom_data_input_dict)
+            df = pd.DataFrame(custom_data_input_dict)
             logging.info('Dataframe Gathered')
             return df
 

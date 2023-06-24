@@ -1,8 +1,8 @@
 Flask
 Pandas
-geopy
-matplotlib
-missingno
-numpy
 scikit-learn
+numpy
 seaborn
+missingno
+matplotlib
+geopy
